@@ -1,3 +1,7 @@
 test-config-name: this is test config
 server:
   port: 8770
+spring:
+  cloud:
+    config:
+      overrideSystemProperties: false
