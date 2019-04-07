@@ -1,4 +1,4 @@
-test-config-name: new value now
+test-config-name: test use kafka bus
 server:
   port: 8770
 spring:
