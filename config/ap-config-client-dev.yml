@@ -1,4 +1,4 @@
-test-config-name: this is new config value
+test-config-name: new value now
 server:
   port: 8770
 spring:
